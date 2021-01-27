@@ -1,0 +1,1815 @@
+{
+  "data": [
+    {
+      "keyword": "Chat",
+      "filename": [
+        {
+          "id": 1,
+          "name": "KPMG ChatBot Proposal V3.pptx",
+          "score": "0.83",
+          "owned_by": "Manoj Rajendran",
+          "date_created": "09.02.2016",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Chat",
+              "content": [
+                "Xoriant **Chat**bot Proposal"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Chatbot",
+              "content": [
+                "Xoriant **Chatbot** Proposal"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "JBSChatbot_Xoriant_Proposal - Copy.pptx",
+          "score": "0.82",
+          "owned_by": "Mohan Mahal",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Chat",
+              "content": [
+                "Dialogflow Hosted Service – Used by the **Chat**bot server to map the user’s utterance to an intent. Contains the Natural Language Understanding Component of the System"
+              ]
+            },
+            {
+              "page_no": "3",
+              "word": "Dialogflow",
+              "content": [
+                "**Dialogflow** Hosted Service – Used by the Chatbot server to map the user’s utterance to an intent. Contains the Natural Language Understanding Component of the System"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Chatbot",
+        "Microsoft Bot Framework",
+        "Dialogflow",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Chatbot",
+      "filename": [
+        {
+          "id": 2,
+          "name": "KPMG ChatBot Proposal V3.pptx",
+          "score": "0.9",
+          "owned_by": "Manoj Rajendran",
+          "date_created": "09.02.2016",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Chatbot",
+              "content": [
+                "Xoriant **Chatbot** Proposal"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "JBSChatbot_Xoriant_Proposal - Copy.pptx",
+          "score": "0.88",
+          "owned_by": "Mohan Mahal",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Dialogflow",
+              "content": [
+                "**Dialogflow** Hosted Service – Used by the Chatbot server to map the user’s utterance to an intent. Contains the Natural Language Understanding Component of the System"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Microsoft Bot Framework",
+        "Dialogflow",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Dialogflow",
+      "filename": [
+        {
+          "id": 3,
+          "name": "KPMG ChatBot Proposal V3.pptx",
+          "score": "0.8",
+          "owned_by": "Manoj Rajendran",
+          "date_created": "09.02.2016",
+          "occurrences": [
+            {
+              "page_no": "8",
+              "word": "Dialogflow",
+              "content": [
+                "**Dialogflow** Hosted Service – Used by the Chatbot server to map the user’s utterance to an intent. Contains the Natural Language Understanding Component of the System"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "JBSChatbot_Xoriant_Proposal - Copy.pptx",
+          "score": "0.45",
+          "owned_by": "Mohan Mahal",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": 7,
+              "word": "Microsoft Bot Framework",
+              "content": [
+                "Solution: Using **Microsoft Bot Framework**"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Microsoft Bot Framework",
+        "Chatbot",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Microsoft Bot Framework",
+      "filename": [
+        {
+          "id": 4,
+          "name": "JBSChatbot_Xoriant_Proposal - Copy.pptx",
+          "score": "0.88",
+          "owned_by": "Mohan Mahal",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": 7,
+              "word": "Microsoft Bot Framework",
+              "content": [
+                "Solution: Using **Microsoft Bot Framework**"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "KPMG ChatBot Proposal V3.pptx",
+          "score": "0.56",
+          "owned_by": "Manoj Rajendran",
+          "date_created": "09.02.2016",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Chatbot",
+              "content": [
+                "build an Intelligent Agent (**Chatbot**)that would allow field consultants to retrieve information from the field guide quickly and accurately "
+              ]
+            },
+            {
+              "page_no": "8",
+              "word": "Dialogflow",
+              "content": [
+                "**Dialogflow** Hosted Service – Used by the Chatbot server to map the user’s utterance to an intent. Contains the Natural Language Understanding Component of the System"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Dialogflow",
+        "Chatbot",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "NLP",
+      "filename": [
+        {
+          "id": 5,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.89",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "NLP",
+              "content": [
+                "**NLP** & ML PROCESS AUTOMATION"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Citi PoCs.docx",
+          "score": "0.73",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NER",
+        "Document Classification",
+        "Entity Recognition",
+        "Chatbot",
+        "Sentiment Analysis",
+        "Adverse Media"
+      ]
+    },
+    {
+      "keyword": "Citi",
+      "filename": [
+        {
+          "id": 6,
+          "name": "Citi PoCs.docx",
+          "score": "0.89",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi**bank operates in 96 countries. Each country has its own set of documents for the KYC process which is a pre-requisite for client on-boarding."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for **Citi**bank."
+              ]
+            },
+               {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.85",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.67",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Hadoop",
+              "content": [
+                "Solution for Alphawise Data Platform For **Morgan Stanley**"
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Morgan Stanley",
+        "Financial Services",
+        "Banking",
+        "Document Classification",
+        "Chatbot",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "keyword": "Citi NLP Capabilities",
+      "filename": [
+        {
+          "id": 7,
+          "name": "Citi PoCs.docx",
+          "score": "0.89",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi**bank operates in 96 countries. Each country has its own set of documents for the KYC process which is a pre-requisite for client on-boarding."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for **Citi**bank."
+              ]
+            },
+               {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.85",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.67",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Hadoop",
+              "content": [
+                "Solution for Alphawise Data Platform For **Morgan Stanley**"
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Morgan Stanley",
+        "Financial Services",
+        "Banking",
+        "Xoriant Proposal Response for Morgan Stanley"
+      ]
+    },
+    {
+      "keyword": "Morgan Stanley",
+      "filename": [
+        {
+          "id": 8,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Hadoop",
+              "content": [
+                "Solution for Alphawise Data Platform For **Morgan Stanley**"
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Citi PoCs.docx",
+          "score": "0.49",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi**bank operates in 96 countries. Each country has its own set of documents for the KYC process which is a pre-requisite for client on-boarding."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for **Citi**bank."
+              ]
+            },
+               {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.43",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Citi",
+        "BFSI",
+        "Financial Services",
+        "Document Classification",
+        "Chatbot",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "keyword": "Xoriant Proposal Response for Morgan Stanley",
+      "filename": [
+        {
+          "id": 9,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Hadoop",
+              "content": [
+                "Solution for Alphawise Data Platform For **Morgan Stanley**"
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        },
+         {
+          "id": 92,
+          "name": "Citi PoCs.docx",
+          "score": "0.49",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi**bank operates in 96 countries. Each country has its own set of documents for the KYC process which is a pre-requisite for client on-boarding."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for **Citi**bank."
+              ]
+            },
+               {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.43",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Citi",
+        "BFSI",
+        "Document Classification",
+        "Chatbot",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "keyword": "Banking",
+      "filename": [
+        {
+          "id": 10,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Bank",
+              "content": [
+                "Client: Fortune 100 Global **Bank**, Master Data Management with NoSQL(1/2)"
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Citi PoCs.docx",
+          "score": "0.79",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Citi**bank** operates in 96 countries. Each country has its own set of documents for the KYC process which is a pre-requisite for client on-boarding."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for Citi**bank**."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.73",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Citi",
+        "Morgan Stanley",
+        "BFSI",
+        "Citi NLP Capabilities",
+        "Xoriant Proposal Response for Morgan Stanley"
+      ]
+    },
+    {
+      "keyword": "Financial Services",
+      "filename": [
+        {
+          "id": 11,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Fin ser",
+              "content": [
+                "Our clients benefit from improved quality, reduced cost, increased agility and faster time to market. Xoriant works primarily with companies in the High-Tech, **Financial Services**, Healthcare, Telecom and Automotive industries. "
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "name": "Citi PoCs FS.docx",
+          "score": "0.79",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Built a similar solution for classifying on-boarding documents for large consulting firm to be used by a Far East Bank and multiple **financial services**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for Citi**bank**."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.73",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "BFSI",
+        "Citi",
+        "Morgan Stanley",
+        "Citi NLP Capabilities",
+        "Xoriant Proposal Response for Morgan Stanley"
+      ]
+    },
+    {
+      "keyword": "BFSI",
+      "filename": [
+        {
+          "id": 12,
+          "name": "Citi PoCs BFSI.docx",
+          "score": "0.79",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Built a similar solution for classifying on-boarding documents for large consulting firm to be used by a Far East Bank and multiple **BFSI**'s"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "Currently the repository of documents contains 50 million documents. Automatically classifying the documents into the right category is a top priority for Citi**bank**."
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "name": "Xoriant Proposal Response for Morgan Stanley BFSI.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Fin ser",
+              "content": [
+                "Our clients benefit from improved quality, reduced cost, increased agility and faster time to market. Xoriant works primarily with companies in the High-Tech, **Financial Services**, Healthcare, Telecom and Automotive industries. "
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "Understanding of **Morgan Stanley**’s Objectives"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.73",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Citi",
+              "content": [
+                "**Citi** NLP Capabilities"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Citi",
+        "Morgan Stanley",
+        "Citi NLP Capabilities",
+        "Xoriant Proposal Response for Morgan Stanley"
+
+      ]
+    },
+    {
+      "keyword": "Search",
+      "filename": [
+        {
+          "id": 13,
+          "name": "Smart Search- Case Based Reasoning.pptx",
+          "score": "0.68",
+          "owned_by": "Smart",
+          "date_created": "12.02.2018",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Search",
+              "content": [
+                "Smart **Search** using Case Based Reasoning– Xoriant Demo"
+              ]
+            },
+            {
+              "page_no": "3",
+              "word": "Search",
+              "content": [
+                "Smart **Search** Advantages to Business"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "name": "Proposed_ML_Solutions_Smart_v2.docx",
+          "score": "0.60",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Recommendation Engine",
+              "content": [
+                "Solution: **Recommendation Engine** with Collaborative filtering algorithm"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.49",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "NLP",
+              "content": [
+                "**NLP** & ML PROCESS AUTOMATION"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Smart Search",
+        "Elasticsearch",
+        "NLP",
+        "Recommendation Engine"
+      ]
+    },
+    {
+      "keyword": "Smart Search",
+      "filename": [
+        {
+          "id": 14,
+          "name": "Smart Search- Case Based Reasoning.pptx",
+          "score": "0.899",
+          "owned_by": "Smart",
+          "date_created": "12.02.2018",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Search",
+              "content": [
+                "**Smart Search** using Case Based Reasoning– Xoriant Demo"
+              ]
+            },
+            {
+              "page_no": "3",
+              "word": "Smart Search",
+              "content": [
+                "**Smart Search** Advantages to Business"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "name": "Proposed_ML_Solutions_Smart_v2.docx",
+          "score": "0.56",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Elasticsearch",
+              "content": [
+                "All the content in the CMS will be indexed by **Elasticsearch** including "
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Recommendation Engine",
+              "content": [
+                "Solution: **Recommendation Engine** with Collaborative filtering algorithm"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Search",
+        "Elasticsearch",
+        "NLP",
+        "Recommendation Engine"
+      ]
+    },
+    {
+      "keyword": "Recommendation Engine",
+      "filename": [
+         {
+          "id": 15,
+          "name": "Proposed_ML_Solutions_Smart_v2.docx",
+          "score": "0.96",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Recommendation Engine",
+              "content": [
+                "Solution: **Recommendation Engine** with Collaborative filtering algorithm"
+              ]
+            },
+            {
+              "page_no": "3",
+              "word": "Elasticsearch",
+              "content": [
+                "All the content in the CMS will be indexed by **Elasticsearch** including "
+              ]
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "name": "Smart Search- Case Based Reasoning.pptx",
+          "score": "0.63",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Smart Search",
+              "content": [
+                "**Smart Search** Advantages to Business"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Search",
+        "Smart Search",
+        "Elasticsearch",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Elasticsearch",
+      "filename": [
+         {
+          "id": 16,
+          "name": "Proposed_ML_Solutions_Smart_v2.docx",
+          "score": "0.87",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Elasticsearch",
+              "content": [
+                "All the content in the CMS will be indexed by **Elasticsearch** including "
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "Recommendation Engine",
+              "content": [
+                "Solution: **Recommendation Engine** with Collaborative filtering algorithm"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "name": "Smart Search- Case Based Reasoning.pptx",
+          "score": "0.39",
+          "owned_by": "Smart",
+          "date_created": "19.05.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Smart Search",
+              "content": [
+                "**Smart Search** Advantages to Business"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Search",
+        "Smart Search",
+        "Recommendation Engine",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Automation",
+      "filename": [
+        {
+          "id": 17,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.899",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Automation",
+              "content": [
+                "NLP & ML PROCESS **AUTOMATION**"
+              ]
+            },
+            {
+              "page_no": "9",
+              "word": "Automation",
+              "content": [
+                "**Automation** made the extraction processes extremely fast. Client was able to process 60 documents in an hour/person"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 172,
+          "name": "X-RAP_Presentation.pptx",
+          "score": "0.876",
+          "owned_by": "Raja Kumar",
+          "date_created": "27.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Automation",
+              "content": [
+                "Xoriant’s Robotics **Automation** Platform(X-RAP)"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Process Automation",
+        "NER",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "Process Automation",
+      "filename": [
+        {
+          "id": 18,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.91",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Process Automation",
+              "content": [
+                "NLP & ML **PROCESS AUTOMATION**"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "name": "X-RAP_Presentation.pptx",
+          "score": "0.67",
+          "owned_by": "Raja Kumar",
+          "date_created": "27.07.2017",
+          "occurrences": [
+            {
+              "page_no": "3",
+              "word": "Automation",
+              "content": [
+                "Xoriant’s Robotics **Automation** Platform(X-RAP)"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Automation",
+        "NER",
+        "NLP"
+      ]
+    },
+    {
+      "keyword": "NER",
+      "filename": [
+        {
+          "id": 19,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.91",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "14",
+              "word": "NER",
+              "content": [
+                "Used Stanford **NER** (Named Entity Recognition) for context recognition and getting the entity, person names and locations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 192,
+          "name": "X-RAP_Presentation.pptx",
+          "score": "0.77",
+          "owned_by": "Raja Kumar",
+          "date_created": "27.07.2017",
+          "occurrences": [
+            {
+              "page_no": "2",
+              "word": "NLP",
+              "content": [
+                "Xoriant X-RAP Platform is a proprietary Process Automation platform which uses **Natural Language Processing** techniques such as AI based intent recognition and automated cognitive responses to automate  Support Resolution processes ."
+              ]
+            },
+            {
+              "page_no": "2",
+              "word": "NLP",
+              "content": [
+                "**Natural Language Processor**/Text Analytics"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NLP",
+        "Document Classification",
+        "Entity Recognition",
+        "OCR",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "keyword": "Entity Recognition",
+      "filename": [
+        {
+          "id": 20,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.8975",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "14",
+              "word": "Entity Recognition",
+              "content": [
+                "Used Stanford NER (Named **Entity Recognition**) for context recognition and getting the entity, person names and locations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name": "Citi PoCs.docx",
+          "score": "0.795",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Entity Recognition",
+              "content": [
+                "POC  - Document Classification and **Entity Recognition**"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name": "X-RAP_Presentation.pptx",
+          "score": "0.56",
+          "owned_by": "Raja Kumar",
+          "date_created": "27.07.2017",
+          "occurrences": [
+            {
+              "page_no": "2",
+              "word": "NLP",
+              "content": [
+                "Xoriant X-RAP Platform is a proprietary Process Automation platform which uses **Natural Language Processing** techniques such as AI based intent recognition and automated cognitive responses to automate  Support Resolution processes ."
+              ]
+            },
+            {
+              "page_no": "2",
+              "word": "NLP",
+              "content": [
+                "**Natural Language Processor**/Text Analytics"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NLP",
+        "Document Classification"
+      ]
+    },
+    {
+      "keyword": "Document Classification",
+      "filename": [
+        {
+          "id": 21,
+          "name": "Citi PoCs.docx",
+          "score": "0.855",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "Document Classification",
+              "content": [
+                "POC  - **Document Classification** and Entity Recognition"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.61",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "14",
+              "word": "NER",
+              "content": [
+                "Used Stanford **NER** (Named Entity Recognition) for context recognition and getting the entity, person names and locations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "name": "Citi PoCs.docx",
+          "score": "0.51",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "OCR",
+              "content": [
+                "1) A Document Classifier that will take **OCR** text from a Scanned Image of a document and classify it into one of 10 categories in 3 seconds or less."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "name": "Document_Scanner_Concept_Approval.pptx",
+          "score": "0.46",
+          "owned_by": "Raja Kumar",
+          "date_created": "14.07.2019",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "OCR",
+              "content": [
+                "OCR"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NLP",
+        "NER",
+        "OCR"
+      ]
+    },
+    {
+      "keyword": "Sentiment Analysis",
+      "filename": [
+        {
+          "id": 22,
+          "name": "Citi PoCs.docx",
+          "score": "0.88",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "2",
+              "word": "Sentiment Analysis",
+              "content": [
+                "Problem 2 - **Sentiment Analysis**"
+              ]
+            },
+            {
+              "page_no": "2",
+              "word": "Sentiment Analysis",
+              "content": [
+                "PoC 2 - News **Sentiment Analyzer**"
+              ]
+            },
+            {
+              "page_no": "1",
+              "word": "OCR",
+              "content": [
+                "1) A Document Classifier that will take **OCR** text from a Scanned Image of a document and classify it into one of 10 categories in 3 seconds or less."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 222,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.561",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "14",
+              "word": "NER",
+              "content": [
+                "Used Stanford **NER** (Named Entity Recognition) for context recognition and getting the entity, person names and locations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "name": "Document_Scanner_Concept_Approval.pptx",
+          "score": "0.49",
+          "owned_by": "Raja Kumar",
+          "date_created": "14.07.2019",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "OCR",
+              "content": [
+                "OCR"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NLP",
+        "NER",
+        "OCR"
+      ]
+    },
+    {
+      "keyword": "OCR",
+      "filename": [
+        {
+          "id": 23,
+          "name": "Citi PoCs.docx",
+          "score": "0.885",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "OCR",
+              "content": [
+                "1) A Document Classifier that will take **OCR** text from a Scanned Image of a document and classify it into one of 10 categories in 3 seconds or less."
+              ]
+            },
+            {
+              "page_no": "2",
+              "word": "Sentiment Analysis",
+              "content": [
+                "PoC 2 - News **Sentiment Analyzer**"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 232,
+          "name": "Document_Scanner_Concept_Approval.pptx",
+          "score": "0.799",
+          "owned_by": "Raja Kumar",
+          "date_created": "14.07.2019",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "OCR",
+              "content": [
+                "OCR"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 233,
+          "name": "Citi NLP Capabilities - v3.pptx",
+          "score": "0.45",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "19.01.2019",
+          "occurrences": [
+            {
+              "page_no": "14",
+              "word": "NER",
+              "content": [
+                "Used Stanford **NER** (Named Entity Recognition) for context recognition and getting the entity, person names and locations"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "NLP",
+        "NER",
+        "Document Classification",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "keyword": "Hadoop",
+      "filename": [
+        {
+          "id": 24,
+          "name": "PoC Presentation for Griddable.pptx",
+          "score": "0.885",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "Hadoop",
+              "content": [
+                "**Hadoop** cluster with HBase will be setup in Griddable PoC environment (by Griddable team)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 242,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.85",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "Hadoop",
+              "content": [
+                "Big Data Scalability by using platforms such as **Hadoop**."
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "**Big Data** Scalability by using platforms such as Hadoop."
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Big Data"
+      ]
+    },
+    {
+      "keyword": "Big Data",
+      "filename": [
+        {
+          "id": 25,
+          "name": "Xoriant Proposal Response for Morgan Stanley.docx",
+          "score": "0.87",
+          "owned_by": "Raja Kumar",
+          "date_created": "18.07.2017",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "Big data",
+              "content": [
+                "**Big Data** Scalability by using platforms such as Hadoop."
+              ]
+            },
+            {
+              "page_no": "5",
+              "word": "Hadoop",
+              "content": [
+                "Big Data Scalability by using platforms such as **Hadoop**."
+              ]
+            }
+          ]
+        },
+        {
+          "id": 252,
+          "name": "PoC Presentation for Griddable.pptx",
+          "score": "0.77",
+          "owned_by": "Ram Subramanyam",
+          "date_created": "14.07.2017",
+          "occurrences": [
+            {
+              "page_no": "5",
+              "word": "Hadoop",
+              "content": [
+                "**Hadoop** cluster with HBase will be setup in Griddable PoC environment (by Griddable team)"
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Hadoop"
+      ]
+    },
+    {
+      "keyword": "IoT",
+      "filename": [
+        {
+          "id": 26,
+          "name": "Xoriant Technical Proposal.docx",
+          "score": "0.9",
+          "owned_by": "Raja Kumar",
+          "date_created": "24.06.2016",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "IoT",
+              "content": [
+                "Technical Proposal Document For Digital Twin **IoT** Platform(GeminiXD)"
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "In Phase 1 (Consulting Phase), our team will include architects, who have experience in **IoT**, Big Data, Machine Learning, User Experience, etc."
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "Xoriant understands McDermott’s objective of building this Digital Twin **IoT** Platform and the value this platform will bring to McDermott and its end customers."
+              ]
+            },
+            {
+              "page_no": "7",
+              "word": "IoT",
+              "content": [
+                "They combine real-time data from **sensors** attached to the asset, with historical data and, depicts its analysis in real-time."
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Sensors",
+        "IoT Capabilities"
+      ]
+    },
+    {
+      "keyword": "IoT Capabilities",
+      "filename": [
+        {
+          "id": 27,
+          "name": "Xoriant Technical Proposal.docx",
+          "score": "0.9",
+          "owned_by": "Raja Kumar",
+          "date_created": "24.06.2016",
+          "occurrences": [
+            {
+              "page_no": "1",
+              "word": "IoT",
+              "content": [
+                "Technical Proposal Document For Digital Twin **IoT** Platform(GeminiXD)"
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "In Phase 1 (Consulting Phase), our team will include architects, who have experience in **IoT**, Big Data, Machine Learning, User Experience, etc."
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "Xoriant understands McDermott’s objective of building this Digital Twin **IoT** Platform and the value this platform will bring to McDermott and its end customers."
+              ]
+            },
+            {
+              "page_no": "7",
+              "word": "IoT",
+              "content": [
+                "They combine real-time data from **sensors** attached to the asset, with historical data and, depicts its analysis in real-time."
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Sensors"
+      ]
+    },
+    {
+      "keyword": "Sensors",
+      "filename": [
+        {
+          "id": 28,
+          "name": "Xoriant Technical Proposal.docx",
+          "score": "0.86",
+          "owned_by": "Raja Kumar",
+          "date_created": "24.06.2016",
+          "occurrences": [
+            {
+              "page_no": "7",
+              "word": "IoT",
+              "content": [
+                "They combine real-time data from **sensors** attached to the asset, with historical data and, depicts its analysis in real-time."
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "In Phase 1 (Consulting Phase), our team will include architects, who have experience in **IoT**, Big Data, Machine Learning, User Experience, etc."
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "Xoriant understands McDermott’s objective of building this Digital Twin **IoT** Platform and the value this platform will bring to McDermott and its end customers."
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "IoT"
+      ]
+    },
+    {
+      "keyword": "Internet of Things",
+      "filename": [
+        {
+          "id": 29,
+          "name": "Xoriant Technical Proposal.docx",
+          "score": "0.86",
+          "owned_by": "Raja Kumar",
+          "date_created": "24.06.2016",
+          "occurrences": [
+            {
+              "page_no": "7",
+              "word": "IoT",
+              "content": [
+                "They combine real-time data from **sensors** attached to the asset, with historical data and, depicts its analysis in real-time."
+              ]
+            },
+            {
+              "page_no": "4",
+              "word": "IoT",
+              "content": [
+                "Xoriant understands McDermott’s objective of building this Digital Twin **IoT** Platform and the value this platform will bring to McDermott and its end customers."
+              ]
+            }
+          ]
+        }
+      ],
+      "related_keywords": [
+        "Sensors"
+      ]
+    }
+  ]
+}
+

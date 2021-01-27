@@ -1,0 +1,12 @@
+{
+    "query": {
+        "function_score": {
+            "field_value_factor": {
+                "field": "num_downloads",
+                "factor": 1,
+                "modifier": "none",
+                "missing": 1
+            }
+        }
+    }
+}

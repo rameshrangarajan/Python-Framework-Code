@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8badbd08-e8ac-4f75-b3d4-3903b507a5d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/server_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/server_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZO9OgWhjAParAaDUPUyuQ8WaOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rangarajan_r\Documents\KMP\KnowledgeManagementPortal\kmt\test_automation\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Test Automation">
+    <configuration name="Python36" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="test_automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python_Selenium_KMP\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="test_automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rangarajan_r\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python36" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test Automation" type="tests" factoryName="py.test">
+      <module name="test_automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python_Selenium_KMP\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;tc_basic_search-28&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--config config.server_config --html\u003dreport.html&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_automation" type="tests" factoryName="py.test">
+      <module name="Python_Selenium_KMP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python_Selenium_KMP\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;tc_api_test-1&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--config config.server_config&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python36" />
+      <item itemvalue="Python tests.Test Automation" />
+      <item itemvalue="Python tests.api_automation" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8badbd08-e8ac-4f75-b3d4-3903b507a5d3" name="Default Changelist" comment="" />
+      <created>1584699242817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584699242817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588864558349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="98" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588864558349" />
+    <state x="110" y="120" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587637212976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1587637212976" />
+    <state x="432" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584960182197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584960182197" />
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog" timestamp="1587385495951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587385495951" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584952656579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584952656579" />
+    <state width="1308" height="114" key="GridCell.Tab.0.bottom" timestamp="1588864702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588864702913" />
+    <state width="1308" height="114" key="GridCell.Tab.0.center" timestamp="1588864702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588864702913" />
+    <state width="1308" height="114" key="GridCell.Tab.0.left" timestamp="1588864702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588864702913" />
+    <state width="1308" height="114" key="GridCell.Tab.0.right" timestamp="1588864702913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1308" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588864702913" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1585562329211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1585562329211" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1585562329216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1585562329216" />
+    <state x="359" y="78" key="RollbackChangesDialog" timestamp="1588831472037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="78" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588831472037" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1584701774748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584701774748" />
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588831495224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1588831495224" />
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1588142498028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1588142498028" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589290467752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589290467752" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584701712580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584701712580" />
+  </component>
+</project>

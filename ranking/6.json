@@ -1,0 +1,22 @@
+{
+    "query": {
+        "function_score": {
+            "query": {
+                "match_all": {}
+            },
+            "functions": [
+                {
+                    "linear": {
+                        "ratings": {
+                            "origin": 100,
+                            "scale": 100,
+                            "offset": 10,
+                            "decay": 0.1
+                        }
+                    },
+                    "weight": 1
+                }
+            ]
+        }
+    }
+}

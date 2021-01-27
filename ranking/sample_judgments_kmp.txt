@@ -1,0 +1,22 @@
+# grade (0-4) queryid docId title
+# 
+# Add your keyword strings below, the feature script will
+# Use them to populate your query templates
+#
+# qid:1: blockchain
+# qid:2: oracle
+# qid:3: aws
+#
+# https://sourceforge.net/p/lemur/wiki/RankLib%20File%20Format/
+#
+#
+4 qid:1 # blockchain_presentation
+2 qid:1 # xoriant_kpmg_partnership
+2 qid:1 # xoriant_financial_services_capabilities_for_finastra
+4 qid:2 # xoriant_oracle_capabilities
+2 qid:2 # xoriant_capabilities_for_nice_sep2019
+3 qid:2 # xoriant_proposal_for_wells_protoype
+2 qid:2 # xoriant_technology_showcase_for_mcdermott
+4 qid:3 # xoriant_cloud_capabilities_tripadvisor
+2 qid:3 # insurance_case_studies_all
+4 qid:3 # xoriant_aws_expertise

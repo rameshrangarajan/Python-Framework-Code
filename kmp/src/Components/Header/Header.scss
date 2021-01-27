@@ -1,0 +1,62 @@
+// importing variables.scss 
+@import "../../Common/variables.scss";
+
+@import "../../../node_modules/react-simple-dropdown/styles/Dropdown.css";  
+
+.header{
+    //background-color: #17a1cc;
+    .title{
+      color: $white;
+      font-size: 1.250em;
+      font-weight: 600;
+      display:none;
+    }
+}
+
+.logo{
+    height: 60px;
+    margin: 10px;
+    cursor: pointer;
+  }
+
+/*Dropdown Styling*/
+
+.dropdown__content {
+  right: 11%;
+  margin-top: 5px;
+  font-size: 14px;
+  background-color: white;
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.15);
+  ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    li{
+      padding: 5px 10px;
+    }
+  }
+}
+
+.logout{
+  border-top: 1px solid grey;
+  padding: 0px !important;
+    a:hover{
+      text-decoration: none;
+    } 
+}
+.logout:hover{
+  background-color: #B0B0B0;
+}
+
+.dropdown__trigger img{
+  cursor: pointer;
+}
+.logout-link{
+  display:inline-block;
+  width: 100%;
+  height:100%;
+  line-height: 2.0;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+  

@@ -1,0 +1,307 @@
+// importing variables.scss 
+@import "../../../Common/variables.scss";
+
+//scss for carousel
+@import "../../../../node_modules/react-image-gallery/styles/scss/image-gallery.scss";
+
+//css for toast
+@import "../../../../node_modules/react-toastify/dist/ReactToastify.css";
+
+/* Occurences modal styling */
+#occurences-modal{
+    .modal-content{
+        border-radius: 0;
+        width:120% !important;
+        height: auto;
+        margin-left:-10%;
+    }
+    .modal-body{
+        padding-top: 0.5rem;
+    }
+}
+
+.close-btn{
+    float: right;
+    margin: 9px;
+    margin-bottom: 0;
+    color: $lightblue;
+    font-size: 23px;
+}
+
+/* Feedback block Styling */
+
+#feedback-block{
+    padding: 0 2% 1% 5%;
+    width: 100%;
+    float: left;
+    button{
+        margin-left:20px;
+        float: left;
+    }
+}
+
+/* Search result styling */
+
+#results-metadata{
+    padding: 0 2% 0 2%;
+    float: left;
+    font-size: 1.125em;
+    color: $grey;
+}
+
+.file-name
+{
+    color: $black;
+    font-weight: bolder;
+    font-size: 1.25em;
+    text-align: left;
+}
+
+.file-context{
+    font-size: 0.770em;
+}
+
+#file-info{
+    margin-left: 2.7rem !important;
+}
+
+.occurrences-thumbnail{  
+    img{
+        float: left;
+        border: 1px solid lightgrey;
+    }
+}
+
+.show-occurence-thumbnail{
+    display: none;  
+    top:20px;
+    img{
+        float: left;
+    }
+}
+
+.thumbnail-hover:hover + .show-occurence-thumbnail,.show-occurence-thumbnail:hover{
+    display: block;
+    position: absolute;
+    z-index: 100;
+    background: white;
+    border-radius: 5px;
+    top: 20px;
+}
+
+#search-results{
+    margin: 0;
+    max-width: 100% !important;
+    overflow-y: scroll;
+}
+
+.search-result-file{
+    width: 100% !important;
+    padding: 1% 0 1% 0;
+}
+
+.search-result-file:hover
+{
+    background-color: #ECECEC
+}
+
+.file-metadata{
+    font-size: 0.8em;
+    color: grey;
+}
+
+.download-btn :hover, .download-button a:hover{
+    text-decoration: none;
+    color:white;
+}
+
+.download-button{
+    height: 22px;
+    font-size: 0.825em !important;
+    a{
+        color: $white;
+        line-height: 0px;
+    }
+}
+
+.btn-toolbar button{
+    height: 27px;
+    line-height: 14px;
+    font-size: 0.750em;
+}
+
+.trainingSubBtn{
+    height: 28px;
+    line-height: 5px !important;
+}
+
+.right-training-btn-box{
+    margin-right: 11rem !important;
+}
+
+/*Pagination Styling*/
+
+.pagination-btn{
+    width: 90px;
+    height: 32px;
+    line-height: 5px !important;
+}
+
+
+
+.switch-group label{
+    font-weight: bold;
+}
+
+/* Feedback icon styling*/
+
+.like{
+    color: $green;
+    cursor: pointer;
+}
+.dislike{
+    color: $red;
+    cursor: pointer;
+}
+
+/*image-gallery styling*/
+.close-button{
+    width: 21px;
+    height: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: $lightblue;
+    border-radius: 100%;
+    background: -webkit-linear-gradient(-45deg, transparent 0%, transparent 46%, white 46%,  white 56%,transparent 56%, transparent 100%), -webkit-linear-gradient(45deg, transparent 0%, transparent 46%, white 46%,  white 56%,transparent 56%, transparent 100%);
+    background-color:$lightblue;
+    transition: all 0.3s ease;
+    float: right;
+}
+
+.image-gallery-play-button{
+    position: absolute;
+    top: 0%;
+    left: 46%;
+}
+.image-gallery-index{
+    right: auto;
+    top: auto;
+    width: 100%;
+    text-align: center;
+}
+.image-gallery-play-button::before , .image-gallery-play-button:hover::before {
+    font-size: 2em;
+    padding: 9px 12px 9px 12px;
+    background: white;
+    border-radius: 100%;
+    border: 1px solid grey;
+    color: $black;
+   }
+
+button:focus {
+    outline:0 !important;
+}
+
+.image-gallery-bullets .image-gallery-bullet.active {
+    background: $grey;
+}
+
+.image-gallery-bullets .image-gallery-bullet {
+    border: 1px solid $grey;
+}
+
+/*Toast message styling*/
+
+.Toastify__toast-body{
+    color: $black;
+}
+
+.Toastify__progress-bar--default {
+    background: linear-gradient(to right,$lightblue, $lightblue);
+}
+
+/*Pagination styling*/
+.page-count-range{
+    font-size: 0.8em;
+    color: grey;
+}
+
+.pagination-block{
+    width: 10%;
+    margin-right: 10em !important;
+    color: $grey;
+    input{
+        width: 40px;
+        padding: 0;
+        height: 29px;
+    }
+}
+
+.line-height-2{
+    line-height:2;
+}
+
+/*accordion styling*/
+
+.accordian-link{
+    color: #007BFF !important;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.pagination {
+    display: inline-block !important;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+.pagination>li:first-child>a, .pagination>li:first-child>span {
+    margin-left: 0;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.pagination>li {
+    display: inline;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 2;
+    cursor: default;
+    color: #337ab7 !important;
+    font-weight: bold !important;
+    border-color: #337ab7;
+}
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #337ab7;
+    text-decoration: none;
+    background-color: #fff;
+}
+.pagination>li>a { 
+    cursor: pointer; 
+}
+.download-link{
+    display:inline-block;
+    width: 100%;
+    height:100%;
+    line-height: 2.0;
+    text-decoration: none;
+}
+#download-btn-click{
+    padding: 0px !important;
+    margin: 0px 0px 0px 8px !important;
+    cursor: default !important;
+}
+#download-btn-click:hover {
+    background-color: white !important;
+    a{
+        color:white !important;
+        background-color: #007bff !important;
+    }
+}
+.search-result-focus:focus{
+    outline: none;
+}

@@ -1,0 +1,14 @@
+#login to GCR
+sudo gcloud auth print-access-token | sudo docker login -u oauth2accesstoken --password-stdin https://gcr.io
+
+#Pull
+sudo docker pull gcr.io/kpmg-chatbot/kmp_es_image2:latest
+
+
+#Tag the local image
+sudo docker tag gcr.io/kpmg-chatbot/kmp_es_image2:latest es_image
+
+
+#To Push
+sudo docker commit 4a4a0be71f87 gcr.io/kpmg-chatbot/kmp_es_image2
+sudo docker push gcr.io/kpmg-chatbot/kmp_es_image2

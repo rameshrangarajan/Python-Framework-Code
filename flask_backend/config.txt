@@ -1,0 +1,77 @@
+[elasticsearch]
+host = localhost
+user = knox_user
+es_dump_auth =
+passw =
+port = 12987
+corpus_index_name = indexed_documents
+logs_index_name = logs
+download_logs_index_name = download_logs
+highlight_tag = strong
+model=true
+model_number=9
+aggregated_download_logs_index_name = aggregated_download_logs
+doc_type = pptx
+user_feedback_index_name = user_feedback
+expert_feedback_index_name = expert_feedback
+autosuggest_feedback_index_name = autosuggest_feedback
+number_of_results_per_page = 10
+app_data_index = app_data
+backup_indices = indexed_documents,logs,expert_feedback,download_logs,user_feedback,autosuggest_feedback,app_data,kmp_users
+gcs_bucket_name = elasticsearch-data
+backup_to_gcs = false
+kmp_users_index = kmp_users
+subjective_feedback_index = subjective_feedback
+
+[egnyte]
+api_key = *****
+username = *****@xoriant.com
+password = *****
+access_token = *****
+corpus_path = /Shared/CMMI/Practice/KnowledgeManagementPlatform/TeamDocs/Knowledgebase/PreSales/
+access_token_endpoint = https://xoriant.egnyte.com/puboauth/token
+domain = xoriant.egnyte.com
+file_path_separator = __
+parser_version = 1
+
+[redis]
+host = localhost
+port = 7788
+password =
+key_suggestion_keywords = keywords
+search_history_keywords = search_history
+key_search_history_rank = keywords_rank
+
+[generic]
+thumbnail_path = ./static/thumbnail/
+corpus_download_path = ./temp_storage
+thumbnail_size_smaller = 190x107
+thumbnail_size_larger = 720x540
+log_level = INFO
+parse_hidden_slides = true
+user_logs_excluded_users =
+
+[scheduler]
+schedule_time = 00:05:00
+enable=true
+egnyte_event_polling_interval = 00:15:00
+
+[keywordsextractor]
+stopwords_file_path = stopwords_list.txt
+spacy_nlp_model_name = en_core_web_sm
+min_df = 2
+selected_ner_tags = GPE,ORG,PERSON,PRODUCT
+selected_noun_tags = NOUN,PROPN
+search_history_autosuggest_min_freq = 2
+search_history_excluded_users = bailmare_sa,sasikumar_vi,aswale_m,kumbhakarn_sh,malpani_v,kothari_n,jadhav_t,kudure_a,rangarajan_r,sharma_anki,chitale_a,hirave_a,kmpuser
+
+[OAuth]
+token_url = https://adfstestserver.xoriant.com/adfs/oauth2/token
+callback_uri = https://10.21.6.44/callback
+client_id = e2a78f71-19f9-465d-adad-94f3010d32a4
+authorize_url = https://adfstestserver.xoriant.com/adfs/oauth2/authorize
+resource = https://10.21.6.44/
+signout_url = https://adfstestserver.xoriant.com/adfs/ls/?wa=wsignout1.0
+
+[trending_topics]
+topic_list = Big data and analytics,Cloud,CloudIO,Virtualization,Data science,Automation,Integration,Mobile application,IoT,Security

@@ -1,0 +1,56 @@
+aws, amazon web service, amazon web services
+ad, active directory
+cdc, cloud data storage
+cia, confidentiality, integrity, and availability
+csp, cloud service provider
+ddos, distributed denial-of-service
+ec2, elastic cloud computing
+hdfs, hadoop distributed file system
+html, hypertext markup language
+it, information technology
+kms, key management system
+mcc, mobile cloud compting
+os, operating system
+paas, platform as a service
+saas, software as a service
+soa, service oriented architecture
+ssl, secure socket layer
+vm, virtual machine
+voip, voice over internet protocol
+s3, simple storage system
+gcp, google cloud platform
+ecs, ec2 container service
+seo, search engine optimization
+wp, wordpress
+cpm, cost per thousand impressions
+ui, user interface
+ux, user experience
+sea, search engine advertising
+b2b, business to business
+crm, customer relationship management
+cx, customer experience
+cpl, cost per lead
+ai, artificial intelligence
+ml, machine learning
+rl, reinforcement learning
+nlp, natural language processing
+cnn, convolutional neural network
+rnn, recurrent neural network
+rpa, robotic process automation
+ann, artificial neural network
+sql, structured query language
+sdk, software development kit
+ide, integrated development environment
+ipsec, internet protocol security
+adfs, active directory federation service
+ci, continous integration
+cd, continous deployment
+ssh, secure shell
+sso, single sign-on
+gui, graphical user interface
+jwt, json web token
+aes, advanced encryption standard
+sqs, simple queue service
+iot, internet of things, internet of thing
+dnn, deep neural network
+cnn, convolutional neural network

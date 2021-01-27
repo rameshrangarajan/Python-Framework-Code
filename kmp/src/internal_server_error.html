@@ -1,0 +1,140 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <style>
+            html {
+                height: 100%;
+            }
+            .header{
+                background-color: #17a1cc;
+                height: 50px;
+            }
+            .title{
+                color: white;
+                font-size: 1.250em;
+                font-weight: 600;
+                text-align: center;
+                position:absolute;
+                top:15;
+                left: 40%;
+                }
+            .logo{
+                height: 60px;
+                margin: 10px;
+                cursor: pointer;
+            }
+
+            body{
+                font-family:  Helvetica, sans-serif;
+                margin: 0;
+            }
+            #main{
+                padding-left: 15px;
+                position: absolute;
+                text-align: left;
+                top: 35%;
+            }
+
+            .fof{
+                vertical-align: middle;
+                left: 63%;
+                top: 20px;
+            }
+
+            .fof h2{
+                font-size: 32px;
+                color:#627992;
+                font-weight: 600;
+            }
+
+            @keyframes type{
+                from{box-shadow: inset -3px 0px 0px #888;}
+                to{box-shadow: inset -3px 0px 0px transparent;}
+            }
+
+            .text-div{
+                font-size: 15px;
+                font-weight: 500;
+                color : grey;
+                padding: 5px;
+            }
+            .inner-div{
+                    margin-top:5%;
+                    color: #19A1CC;
+                    font-size: 15px;
+                }
+
+            a{
+                color:#F4A993;
+                text-decoration: none;
+                font-size: 11px;
+            }
+            a:hover{
+                color:#C44CCE;
+            }
+            .img-div{
+                text-align: center;
+                left: 54%;
+                top: 33px;
+            }
+          
+            .imgClass{
+                width: 225px;
+                height: 147px;
+            }
+            .btn-div{
+                margin-top:5%;
+            }
+            .cust-btn{
+                font-size: 10px;
+                background-color: #17A1CC;
+                border-color: #17A1CC;
+            }
+            .cust-btn:hover{
+                background-color: #17A1CC;
+                border-color: #17A1CC;
+            }
+            .btn-primary .cust-btn:active{
+                background-color: #17A1CC;
+                border-color: #17A1CC;
+            }
+           
+            </style>
+    </head>
+    <body>
+        <header>
+            <div class="header">
+                <img
+                    alt=""
+                    src="/static/images/logo.png"
+                    width="82"
+                    height="42"
+                    class="d-inline-block align-top ml-2"
+                />
+                
+                <div class="title">Knowledge Management Portal</div>
+            </div>
+        </header>
+        <div id="main" class="row">
+            <div class="col-md-4 img-div">
+                <img class="imgClass" src="/static/images/Server.png" alt="" />
+            </div>
+            <div class="col-md-8 fof">
+                <h2>500 Server Error</h2>
+                <div class="text-div">
+                    Woops! I know you were not expecting this.
+                    <div>But we could not find what you are looking for...</div>
+                    <div class="row">
+                        <div class="col-md-7 inner-div">Let's Talk
+                            <div style="font-size:11px;margin-top: 4px;">We are always open to talk</div>
+                            <div style="margin-top: 1px;"><a href="mailto:knox-team@xoriant.com">knox-team@xoriant.com</a></div>
+                        </div>
+                        <div class="col-md-5 btn-div"><button class="btn btn-sm btn-primary cust-btn" onclick="window.location.href='index.html'">Go to Homepage</button></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+4	 	1:2.560815	2:0.0	3:0.0	4:0.99988693	5:0.0	6:0.0 # xoriant_overview_and_capabilities_for_cisco	google
+2	 	1:2.8936164	2:0.0	3:0.0	4:0.39550364	5:63.0	6:51.0 # ecommerce_expertise	google
+2	 	1:2.8936164	2:0.0	3:0.0	4:0.39550364	5:63.0	6:51.0 # ecommerce_expertise	google
+4	 	1:5.183428	2:4.5179195	3:3.6780174	4:0.99988693	5:0.0	6:0.0 # xoriant_overview_and_capabilities_for_cisco	cisco
+4	 	1:5.183428	2:4.5179195	3:3.6780174	4:0.99988693	5:0.0	6:0.0 # xoriant_overview_and_capabilities_for_cisco	cisco
+4	 	1:2.1575367	2:3.302445	3:0.0	4:0.99994576	5:3.0	6:0.0 # xoriant_capabilities_for_nice_sep2019	aws
+4	 	1:2.1575367	2:3.302445	3:0.0	4:0.99994576	5:3.0	6:0.0 # xoriant_capabilities_for_nice_sep2019	aws
+4	 	1:2.5768008	2:4.533513	3:4.2903824	4:0.9707783	5:4.0	6:0.0 # xoriant_aws_expertise	aws
+4	 	1:2.5768008	2:4.533513	3:4.2903824	4:0.9707783	5:4.0	6:0.0 # xoriant_aws_expertise	aws
+4	 	1:0.79795605	2:2.4137185	3:0.0	4:0.99994576	5:3.0	6:0.0 # xoriant_capabilities_for_nice_sep2019	cloud
+4	 	1:0.79795605	2:2.4137185	3:0.0	4:0.99994576	5:3.0	6:0.0 # xoriant_capabilities_for_nice_sep2019	cloud
+4	 	1:2.037206	2:6.394928	3:3.5261166	4:0.9045304	5:0.0	6:0.0 # xoriant_oracle_capabilities	oracle
+4	 	1:2.037206	2:6.394928	3:3.5261166	4:0.9045304	5:0.0	6:0.0 # xoriant_oracle_capabilities	oracle
+2	 	1:4.139679	2:14.953661	3:8.50667	4:0.63123363	5:84.0	6:0.0 # aera_case_study	User Interface Modernization
+2	 	1:4.139679	2:14.953661	3:8.50667	4:0.63123363	5:84.0	6:0.0 # aera_case_study	User Interface Modernization

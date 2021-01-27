@@ -1,0 +1,172 @@
+// importing variables.scss 
+@import "../../../../Common/variables.scss";
+
+//importing react-rangeslider.css
+@import "../../../../../node_modules/react-rangeslider/lib/index.css";
+
+/*Slider Styling*/
+
+.rangeslider-horizontal .rangeslider__fill{
+    background: $lightblue;
+}
+
+.rangeslider__labels .rangeslider__label-item{
+    font-size: 12px;
+}
+.rangeslider-horizontal{
+    height: 9px;
+    width: 70%;
+}
+
+/* thumbnail list styling*/
+
+.thumbnail-list{
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.thumbnail-list1{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.occurence-div{
+    overflow-y: scroll;
+    height: 450px;
+    padding-right: 2px !important;
+    padding-left: 0px !important;
+}
+.img-cls{
+    border: 1px solid #999;
+    cursor: pointer;
+}
+
+.feedback-count{
+    font-weight:bold;
+}
+
+.preview-btn, .download-btn{
+    width:47%;
+    padding:1px 6px !important;
+}
+
+.preview-img{
+    border: 1px solid #ccc;
+    padding-bottom: 2px;
+}
+
+.title-preview{
+    float: left;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.title-fileName{
+    float:left;
+    padding-left: 15px;
+    font-size: 12px;
+}
+.title-occurences{
+    float: right;
+    font-weight: bold;
+}
+.file-occurence{
+    width:95%;
+    height:25px;
+}
+.file-download{
+    width:77%;
+    float:left;
+}
+.download-text{
+    float:right;
+    font-size:12px;
+    padding-right:2px;
+    margin-right: 0.5em;
+}
+.occurences-text{
+    width:20%;
+    float:right;
+    text-align: center;
+    font-weight: bold;
+    font-size:  0.83em/13.28px;
+}
+.pointer {
+    cursor: pointer;
+}
+.search-result-metadata{
+    padding-left: 0 !important;
+    padding-top: 10px;
+    font-size: 0.750em  !important;
+    padding-bottom: 10px;
+    
+}
+.search-result-downloads{
+    font-size: 0.750em;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: left;
+    margin-left: 22px
+}
+.dislike-btn{
+    margin-left: 0.5em;
+}
+.download-link{
+    display:inline-block;
+    width: 100%;
+    height:100%;
+    line-height: 2.0;
+    text-decoration: none;
+}
+#download-btn-click{
+    padding: 0px !important;
+    margin: 0px 0px 0px 8px !important;
+    cursor: default !important;
+}
+#download-btn-click:hover {
+    background-color: white !important;
+    a{
+        color:white !important;
+        background-color: #007bff !important;
+    }
+}
+.dwnTxt{
+    padding: 5px;
+}
+.created-by-result{
+    cursor: default;
+}
+.modal-style{
+    padding:2.5rem !important;
+ }
+.cust-img{
+    cursor: zoom-in;
+    margin-left: 2rem!important;
+}
+.search-result-focus:focus{
+    outline: none;
+}
+.img-space{
+    margin-left: 10px;
+}
+.file-info{
+    margin-left: 1.3rem !important;
+ }
+ 
+.rangeslider-horizontal .rangeslider__handle:after{
+    width: 14px;
+    height: 15px;
+    top: 3px;
+    left: 4px;
+}
+.rangeslider-horizontal .rangeslider__handle {
+    width: 23px;
+    height: 23px;
+}
+.rangeslider__labels .rangeslider__label-item{
+    font-size: 11px;
+}
+.col-space{
+    padding-left: 10px !important;
+}
+.loading{
+     background: transparent url("../../../../assets/images/loader-img.gif") no-repeat scroll center center  !important;
+}

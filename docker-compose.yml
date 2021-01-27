@@ -1,0 +1,36 @@
+version: '3.5'
+services:
+  web:
+      build: .
+      command: bash -c "./build/with_containerization/build_ui.sh && cd ./flask_backend && gunicorn --certfile=./certs/server.crt --keyfile=./certs/server.key --bind=0.0.0.0:5000 --workers=2 main:app"
+      ports:
+          - "5000:5000"
+      volumes:
+          - .:/app
+      depends_on:
+          - redis
+          - es_image_01
+      network_mode: "host"
+      env_file:
+        - ./flask_backend/.env.staging
+  redis:
+      image: redis
+      command: redis-server --requirepass 5t6y&U*I
+      ports:
+        - 6379:6379
+      network_mode: "host"
+  es_image_01:
+    image: es_image
+    container_name: es_container_01
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    network_mode: "host"
+    ports:
+      - 9200:9200
+
+volumes:
+  esdata:

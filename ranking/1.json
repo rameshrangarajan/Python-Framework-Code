@@ -1,0 +1,8 @@
+{
+    "query": {
+        "match": {
+            "slides.shapes.paras.lines.segments.text": "{{keywords}}"
+        }
+    }
+}
+
